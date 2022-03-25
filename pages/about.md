@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Mile One Ventures
+title: About BSaaSB
 permalink: "/about/"
 image: assets/images/about-hero.jpeg
 
