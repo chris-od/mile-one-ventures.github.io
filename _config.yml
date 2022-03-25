@@ -1,8 +1,8 @@
-title: "Mile One Ventures"
+title: "BSaaSB"
 email: mile1ventures@gmail.com
 timezone: UTC
 baseurl: ""
-url: "https://www.mileoneventures.co.uk"
+url: "https://www.bsaasb.co.uk"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -36,7 +36,7 @@ authors:
   
 # Social
 social:
-  instagram: https://www.instagram.com/mileoneventures/
+  instagram:
   facebook:
   twitter: 
 
